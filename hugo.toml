@@ -11,9 +11,9 @@
 # ---------------------------------------------------------------------------
 
 baseURL = 'https://example.org/'
-title = 'Northstar Digital'
-locale = 'en-GB'
-defaultContentLanguage = 'en'
+title = 'Feuillage frétillant'
+locale = 'fr-FR'
+defaultContentLanguage = 'fr'
 timeZone = 'Europe/Berlin'
 
 enableRobotsTXT = true
@@ -63,8 +63,8 @@ capitalizeListTitles = false
   pageRef = '/work'
   weight = 20
 [[menu.main]]
-  name = 'About'
-  pageRef = '/about'
+  name = 'À propos'
+  pageRef = '/a-propos'
   weight = 30
 [[menu.main]]
   name = 'Journal'
@@ -143,14 +143,14 @@ capitalizeListTitles = false
 # header, so a key written below [params.address] becomes params.address.<key>
 # and the theme never sees it.
 [params]
-  description = 'Northstar Digital is a Berlin product studio building websites, software and brand systems for companies that need to move quickly without lowering the bar.'
+  description = 'Feuillage frétillant is a Berlin product studio building websites, software and brand systems for companies that need to move quickly without lowering the bar.'
 
   # Company details. Nothing company-specific is hardcoded in the templates.
-  companyName = 'Northstar Digital'
-  legalName = 'Northstar Digital GmbH'
+  companyName = 'feuillage frétillant'
+  legalName = 'Feuillage frétillant GmbH'
   tagline = 'Product studio for considered digital work'
   founded = 2014
-  email = 'hello@northstar.example'
+  email = 'bonjour@feuillagefretillant.fr'
   phone = '+49 30 5550 1847'
   phoneHref = '+493055501847'
   vatId = 'DE 312 998 471'
@@ -180,16 +180,16 @@ capitalizeListTitles = false
   showRelated = true
 
   [params.address]
-    street = 'Chausseestraße 42'
-    postalCode = '10115'
-    city = 'Berlin'
-    region = 'Berlin'
-    country = 'Germany'
-    countryCode = 'DE'
+    street = ''
+    postalCode = '22100'
+    city = 'Lanvallay'
+    region = '22'
+    country = 'France'
+    countryCode = 'FR'
     mapURL = 'https://www.openstreetmap.org/search?query=Chausseestrasse%2042%2C%2010115%20Berlin'
 
   [params.announcement]
-    enabled = true
+    enabled = false
     text = 'We have two delivery slots open for Q2 2026.'
     linkLabel = 'Start a project'
     linkURL = '/contact/'

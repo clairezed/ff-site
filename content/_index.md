@@ -1,15 +1,15 @@
 ---
-title: "Northstar Digital"
-description: "Northstar Digital is a Berlin product studio. We design and build websites, platforms and brand systems for companies that need to move quickly without lowering the bar."
+title: "Feuillage frétillant"
+description: "Feuillage frétillant is a Berlin product studio. We design and build websites, platforms and brand systems for companies that need to move quickly without lowering the bar."
 sections:
   - type: hero
-    eyebrow: "Berlin product studio"
+    eyebrow: "Atelier de paysage"
     title: "Digital work that survives contact with your customers"
     lead: "We design and build websites, platforms and brand systems for mid-sized companies. Nine senior specialists, no account managers, and a written scope before anyone writes code."
     image: images/hero.jpg
-    imageAlt: "The Northstar Digital studio in Berlin during a working session"
+    imageAlt: "The Feuillage frétillant studio in Berlin during a working session"
     primary:
-      label: "Book an intro call"
+      label: "Nous contacter"
       url: /contact/
     secondary:
       label: "See our work"
@@ -48,7 +48,7 @@ sections:
   - type: about
     eyebrow: "The studio"
     title: "A small team that stays on the project"
-    lead: "Northstar Digital has been independent since 2014. We deliberately stay small so the people you meet in the first call are the ones writing the code."
+    lead: "Feuillage frétillant has been independent since 2014. We deliberately stay small so the people you meet in the first call are the ones writing the code."
     tone: muted
     image: images/about-studio.jpg
     imageAlt: "Two designers reviewing interface work on a large monitor"
